@@ -1,0 +1,10 @@
+1||0  //1 or 0
+a=1 ? true : print (a);
+
+
+
+function min(a,b)
+{
+return a<b ?a:b;
+}
+
